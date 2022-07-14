@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mofsss
+- 👋 Hi, I’m Mofya
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
